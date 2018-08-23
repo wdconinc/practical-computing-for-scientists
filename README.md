@@ -62,7 +62,6 @@ Each homework assignment will be assigned to a two-person group, randomly select
 
 The course schedule is subject to change.
 
-|------|---------------|-----------------|-------|
 | Week | Dates         | Topic           | Notes |
 |------|---------------|-----------------|-------|
 | 1    | 8/29,31       | Intro to Python |       |
@@ -80,7 +79,6 @@ The course schedule is subject to change.
 | 13   | 11/19         | Fourier transforms | (Thanksgiving) |
 | 14   | 11/26,28,30   | TBD             |       |
 | 15   | 12/3,5,7      | TBD             |       |
-|------|---------------|-----------------|-------|
 
 ## Exams
 
@@ -94,17 +92,13 @@ The total grade will be calculated from your homework grades (50%), the final ex
 
 The letter grades will be according to the following table:
 
+|              |              |              |
 |--------------|--------------|--------------|
 | A- [90%,93%[ | A [93%,100%] |              |
-|--------------|--------------|--------------|
 | B- [80%,83%[ | B [83%,87%[  | B+ [87%,90%[ |
-|--------------|--------------|--------------|
 | C- [70%,73%[ | C [73%,77%[  | C+ [77%,80%[ |
-|--------------|--------------|--------------|
 | D- [60%,63%[ | D [63%,67%[  | D+ [67%,70%[ |
-|--------------|--------------|--------------|
 |              | F [0%,60%[   |              |
-|--------------|--------------|--------------|
 
 ## Absence
 
