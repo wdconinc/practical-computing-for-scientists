@@ -11,9 +11,7 @@
 
 ## Course Synopsis
 
-This course will focus on breaking scientific problems into algorithmic pieces that can be solved using computational methods. Root finding, linear and non-linear equations, numerical modeling, optimization, random processes, graphical data presentation and fitting, scientific documentation preparation.
-
-Catalog entry: http://catalog.wm.edu/preview_course_nopop.php?catoid=17&coid=48711
+This course will focus on breaking scientific problems into algorithmic pieces that can be solved using computational methods. Root finding, linear and non-linear equations, numerical modeling, optimization, random processes, graphical data presentation and fitting, scientific documentation preparation (from the [catalog entry](http://catalog.wm.edu/preview_course_nopop.php?catoid=17&coid=48711)).
 
 ## Objectives
 
@@ -34,19 +32,21 @@ I will use Google Classroom for distribution of homework assignments, project as
 ## Google Colaboratory
 
 In finding a suitable platform for programming exercises, I tried to balance a number of competing criteria:
+
 - ease of access for students,
 - ease of access for graders,
 - ability to assist students with problems,
 - ability to give feedback to students,
 - ability to track changes and improvements.
 
-Google Colaboratory fulfills the majority of these requirements. It provides a fully functional programming environment in the web browser (so no local installation is necessary). It is built upon the Google Drive framework and allows shared access to files. Access to it is included in the W&M Apps account that every student already has.
+Google Colaboratory, at [colab.research.google.com](https://colab.research.google.com), fulfills the majority of these requirements. It provides a fully functional programming environment in the web browser (so no local installation is necessary). It is built upon the Google Drive framework and allows shared access to files. Access to it is included in the W&M Apps account that every student already has.
 
 Although Google Colaboratory notebooks at first glance seem identical in operation as Google Drive documents (text documents, spreadsheets, or presentation), there is an important difference that is relevant for this class. Only the text of the notebooks is shared! The loaded libraries or values of variables are not shared among users of the same notebook. Keep this in mind when working on a notebook collaboratively.
 
 ## Suggested Resources
 
 All necessary resources for this course are available online, though not always in a single place. You will be able to complete this course without any required textbooks. Nevertheless, the following two resources may be very useful:
+
 - Practical Computing for Biologists, Haddock and Dunn, ISBN 9780878933914, 9781605354118
 - Numerical Methods in Engineering with Python 3, Kiusalaas, ISBN 9781107033856
 
@@ -63,13 +63,14 @@ I will not assume that you have experience in programming from scratch, but I wi
 Although much of what you will learn in this class will be useful independent of programming language, practical considerations force us to make a choice. We will be using python as the programming language for this course.
 
 Python has a few advantages:
+
 - Python is a general purpose programming language that is widely used in industry and at national and international research laboratories.
 - Python is free and will be available after you graduate from William & Mary.
 - Any modules and extension of python that we will use in this course are open source and allow you to dig in and figure out what is going on.
 - Python is easy to learn and use (and indeed taught in the computer science department at William & Mary).
 - Python has a large user community and very good documentation.
 
-If you wish to brush up your python knowledge or see what we are going to start from, I encourage you to take one of the many python tutorials online (e.g. https://www.datacamp.com/courses/intro-to-python-for-data-science). We will begin with fairly basic python and throughout the semester we will naturally start using more advanced concepts in python.
+If you wish to brush up your python knowledge or see what we are going to start from, I encourage you to take one of the many python tutorials online (e.g. [datacamp.com/courses/intro-to-python-for-data-science](https://www.datacamp.com/courses/intro-to-python-for-data-science)). We will begin with fairly basic python and throughout the semester we will naturally start using more advanced concepts in python.
 
 ## Assignment Categories
 
@@ -156,7 +157,7 @@ Notify the instructor in advance if you will be missing classes or will be late 
 
 ## Accommodations
 
-It is the policy of William \& Mary to accommodate students with disabilities and qualifying diagnosed conditions in accordance with federal and state laws. Any student who feels he or she may need an accommodation based on the impact of a learning, psychiatric, physical or chronic health diagnosis should contact the Student Accessibility Services staff at 757-221-2509 or at \href{mailto:sas@wm.edu}{sas@wm.edu}. SAS staff will work with you to determine if accommodations are warranted, and if so, to help you obtain an official letter of accommodation. For more information please see \href{http://www.wm.edu/sas}{Student Accessibility Services}.
+It is the policy of William \& Mary to accommodate students with disabilities and qualifying diagnosed conditions in accordance with federal and state laws. Any student who feels he or she may need an accommodation based on the impact of a learning, psychiatric, physical or chronic health diagnosis should contact the Student Accessibility Services staff at 757-221-2509 or at [sas@wm.edu](mailto:sas@wm.edu). SAS staff will work with you to determine if accommodations are warranted, and if so, to help you obtain an official letter of accommodation. For more information please see [Student Accessibility Services](http://www.wm.edu/sas).
 
 If you feel that there is anything that I can do to ensure a better learning environment for you, please do not hesitate to contact me. As long as these ad-hoc accommodations do not unfairly disadvantage other students, I am more than willing to help out.
 
