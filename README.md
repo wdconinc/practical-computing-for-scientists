@@ -82,6 +82,12 @@ For this course we will be using assignment categories developed within the Maso
 * CATEGORY D: This is a group assignment. You may share information, discuss general concepts and approaches to the assignment with other groups. Everyone in the group should be prepared to discuss the entire assignment in class. Each group must turn in their own work. You may not copy another group’s work; it is an honor code offense to do so.
 * CATEGORY E: This is a timed assignment. You are given a specific length of time within which the work must be completed. It is an honor code offense to violate this time restriction unless you have received permission from your professor.
 
+## Honor Code
+
+"As a member of the William and Mary community, I pledge on my honor not to lie, cheat, or steal, either in my academic or personal life.  I understand that such acts violate the Honor Code and undermine the community of trust, of which we are all stewards."
+
+Academic integrity is an integral component of the College of William and Mary learning experience and any breech of this integrity is very serious and not in keeping with the overall intellectual and ethical foundations of our University. Students are expected to adhere to the William and Mary Honor Code and to the general principles of academic honesty. These principles include and incorporate the concept of respect for the intellectual property of others, the expectation that assignments will be submitted according to guidelines specified by the instructor, and that plagiarism of any type is unacceptable.
+
 ## Homework Assignments
 
 Homework will be assigned by Thursday evening each week (at the latest) and will be due the following Wednesday at 11:59 pm. In case of holidays or breaks the homework will be assigned earlier but still be due at the same time.
