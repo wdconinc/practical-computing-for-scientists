@@ -1,5 +1,7 @@
 # Practical Computing for Scientists (PHYS 256)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wdconinc/practical-computing-for-scientists/master)
+
 ## General Information
 
 * Instructor: Wouter Deconinck (wdeconinck@wm.edu)
