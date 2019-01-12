@@ -2,6 +2,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wdconinc/practical-computing-for-scientists/master)
 
+An accompanying private instructor repository is available at https://github.com/wdconinc/practical-computing-for-scientists-instructor-notes.
+
 ## General Information
 
 * Instructor: Wouter Deconinck (wdeconinck@wm.edu)
